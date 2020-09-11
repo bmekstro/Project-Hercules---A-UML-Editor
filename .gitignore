@@ -1,0 +1,12 @@
+out/build/
+build/
+*.exe
+*.o
+*.so
+*.gch
+*.suo
+*.db
+*.opendb
+*.ipch
+*.json
+*.sqlite
